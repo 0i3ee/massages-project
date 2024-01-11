@@ -12,3 +12,17 @@ C:\Users\Advice\Source\Repos\0i3ee\massages-project\massges project\obj\Debug\ma
 C:\Users\Advice\Source\Repos\0i3ee\massages-project\massges project\obj\Debug\massges project.exe
 C:\Users\Advice\Source\Repos\0i3ee\massages-project\massges project\obj\Debug\massges project.xml
 C:\Users\Advice\Source\Repos\0i3ee\massages-project\massges project\obj\Debug\massges project.pdb
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\bin\Debug\massges project.exe.config
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\bin\Debug\massges project.exe
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\bin\Debug\massges project.pdb
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\bin\Debug\massges project.xml
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\bin\Debug\Guna.UI2.dll
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\obj\Debug\massges project.vbproj.AssemblyReference.cache
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\obj\Debug\massges_project.Form1.resources
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\obj\Debug\massges_project.Resources.resources
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\obj\Debug\massges project.vbproj.GenerateResource.cache
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\obj\Debug\massges project.vbproj.CoreCompileInputs.cache
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\obj\Debug\massges project.vbproj.CopyComplete
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\obj\Debug\massges project.exe
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\obj\Debug\massges project.xml
+C:\Users\LEGION 5 Pro\Source\Repos\massages-project\massges project\obj\Debug\massges project.pdb
